@@ -1,6 +1,5 @@
-
 Digital Diary
-  A simple console-based digital diary system written in Eclipse IDE for Java Developers. Users can create/delete accounts, log in, as well as write and view a dairy entry. 
+  - A simple console-based digital diary system written in Eclipse IDE for Java Developers. Users can create/delete accounts, log in, as well as write and view a dairy entry. 
 
 Features
   - Account creation with username and password
@@ -16,4 +15,4 @@ Future Enhancements
   - Ability to delete entry
 
 Author
-  Max Floren
+  - Max Floren
